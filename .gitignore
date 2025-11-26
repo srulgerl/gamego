@@ -1,0 +1,18 @@
+
+# Godot 4+ specific ignores
+.godot/
+/android/
+# Godot imports (cache)
+.import/
+
+# Export presets (machine-specific)
+export_presets.cfg
+
+# Mono/C# projects
+.mono/
+data_*/
+
+# System files
+.DS_Store
+Thumbs.db
+
